@@ -1,0 +1,1 @@
+{"allowed_origins":["example.com",42],"cache_size":512,"debug":"yes-please","host":"API.EXAMPLE.COM","mode":"prod","port":"eighty","workers":0}

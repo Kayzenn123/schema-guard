@@ -1,0 +1,1 @@
+{"allowed_origins":["https://example.com","https://app.example.com"],"db":{"name":"shopdb","pool":20,"url":"postgres://db.internal:5432/shopdb"},"debug":false,"host":"api.example.com","log_level":"info","mode":"prod","port":8443,"workers":8}
